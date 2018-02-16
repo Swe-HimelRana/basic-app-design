@@ -5,10 +5,17 @@
 This is a basic skeleton for your application.
 
   - You can use if for your javascript desktop application
+
   # Features!
 
   - Left Sidebar
   - Nice Hamburger Menu
+
+# Screenshot
+![basic-looking](https://image.ibb.co/nnTND7/app1.png)
+![sidebar-looking](https://image.ibb.co/b8tND7/app2.png)
+
+
 ### Installation
 
 Just clone this simple skeleton to start
