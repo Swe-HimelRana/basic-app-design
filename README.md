@@ -4,7 +4,7 @@
 
 This is a basic skeleton for your application.
 
-  - You can use if for your javascript desktop application
+  - You can use this for your javascript desktop application
 
   # Features!
 
