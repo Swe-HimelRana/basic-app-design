@@ -1,0 +1,54 @@
+#sidebar{
+	position: fixed;
+	height: 100%;
+	width: 200px;
+	background: #151719;
+	left: -200px;
+	transition: all 200ms linear;
+}
+#sidebar.active{
+	left: 0px;
+}
+#sidebar ul{
+	margin-top: 20px;
+}
+#sidebar ul li{
+	color: rgba(230,230,230,0.9);
+	list-style: none;
+	padding: 5px 10px;
+	border-bottom: 1px solid rgba(100,100,100,0.3);
+
+}
+#sidebar ul li:hover{
+	 color: white;
+	 background: green;
+
+}
+#sidebar #toggle-button{
+	position: absolute;
+	left: 230px;
+	top: 20px;
+
+}
+ 
+#sidebar #toggle-button span{
+	display: block;
+	width: 30px;
+	height: 5px;
+	background: #fff;
+	margin: 5px 0px;
+}
+#sidebar #toggle-button span:hover{
+ 
+	background: red;
+
+}
+#sidebar-profile{
+	color: white;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQd7yu3HO9ib2-hChJ4eI8cRBlHZf_S2FvgBdSS-mGOHW3TL29);
+	max-height: 150px;
+	padding-left: 10px;
+}
+body{
+	background: #242424;
+}
